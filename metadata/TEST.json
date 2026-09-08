@@ -1,0 +1,7 @@
+{
+  "name": "Yolo test",
+  "symbol": "TEST",
+  "description": "Yolo launchpad test",
+  "image": "https://raw.githubusercontent.com/zerotondev/Yolo/main/logos/TEST.jpg",
+  "decimals": "9"
+}
